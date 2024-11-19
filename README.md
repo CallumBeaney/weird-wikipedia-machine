@@ -10,3 +10,8 @@
 #### TODO
 6. Make a t-shirt with a QR code on the back linking to that webpage
 7. Walk around town and see what happens
+
+<br>
+
+<img src="./tshirt.png" style="width:400px">
+or something
